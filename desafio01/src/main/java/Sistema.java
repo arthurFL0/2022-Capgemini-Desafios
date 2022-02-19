@@ -10,7 +10,7 @@ public class Sistema {
 
 
         Scanner sc1 = new Scanner(System.in);
-        System.out.println("Por favor insira o número para o desenha da escada.");
+        System.out.println("Por favor insira o número para o desenho da escada.");
         int num = sc1.nextInt();
         Escada escada = new Escada();
 
