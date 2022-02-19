@@ -22,6 +22,6 @@ Desafios propostos no processo de seleção da Academia Capgemini 2022
   Um algoritmo que faça o cálculo de quantos anagramas pares uma palavra possui. Por exemplo: "ovo" contém [o,o] e [ov,vo].
 
 ### Como rodar os desafios
-Cada desafio conta com uma classe com o nome de "Sistema" src/main/java/Sistema que contém o método main. Após o Run nesse classe, os programas devem receber um input de acordo com a proposta do desafio no console para então executados.
+Separe as pastas de cada desafio. Cada desafio conta com uma classe com o nome de "Sistema" src/main/java/Sistema que contém o método main. Após o Run nesse classe, os programas devem receber um input de acordo com a proposta do desafio no console para então executados.
 ### Tecnologias usadas
 Java/JDK 11 Eclipse Adomptium, Maven, JUnit.
